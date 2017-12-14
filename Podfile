@@ -11,6 +11,7 @@ target 'RxFirebase' do
   pod 'Firebase/Messaging'
   pod 'Firebase/Database'
   pod 'Firebase/Storage'
+  pod 'Firebase/Auth'
 
   target 'RxFirebaseTests' do
     inherit! :search_paths
