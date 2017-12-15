@@ -15,6 +15,7 @@
 		9851E82A1FDFFBED0082CDC9 /* RxFirebaseAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9851E8291FDFFBED0082CDC9 /* RxFirebaseAuth.swift */; };
 		9851E82C1FE000EE0082CDC9 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9851E82B1FE000EE0082CDC9 /* Result.swift */; };
 		EE45F2D71FE2C61E00D20A26 /* RxFirebaseDatabase.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE45F2D61FE2C61E00D20A26 /* RxFirebaseDatabase.swift */; };
+		EE45F2D91FE2DD2700D20A26 /* RxFirebaseStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE45F2D81FE2DD2700D20A26 /* RxFirebaseStorage.swift */; };
 		F9678588FEA6C62C4729C343 /* Pods_RxFirebase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5ADC9CB900E643F2E67626A3 /* Pods_RxFirebase.framework */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		A7EAECC9D92C4A7170518AAE /* Pods-RxFirebaseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxFirebaseTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxFirebaseTests/Pods-RxFirebaseTests.release.xcconfig"; sourceTree = "<group>"; };
 		D0E1BAD8A0E2AFE6A48B4EA0 /* Pods_RxFirebaseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxFirebaseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE45F2D61FE2C61E00D20A26 /* RxFirebaseDatabase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxFirebaseDatabase.swift; sourceTree = "<group>"; };
+		EE45F2D81FE2DD2700D20A26 /* RxFirebaseStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxFirebaseStorage.swift; sourceTree = "<group>"; };
 		FA0CDE95C3F7010683FE6867 /* Pods-RxFirebase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxFirebase.release.xcconfig"; path = "Pods/Target Support Files/Pods-RxFirebase/Pods-RxFirebase.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +119,7 @@
 				9851E8271FDFF7FD0082CDC9 /* RxFirebase.swift */,
 				9851E8291FDFFBED0082CDC9 /* RxFirebaseAuth.swift */,
 				EE45F2D61FE2C61E00D20A26 /* RxFirebaseDatabase.swift */,
+				EE45F2D81FE2DD2700D20A26 /* RxFirebaseStorage.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 			files = (
 				9851E82C1FE000EE0082CDC9 /* Result.swift in Sources */,
 				9851E82A1FDFFBED0082CDC9 /* RxFirebaseAuth.swift in Sources */,
+				EE45F2D91FE2DD2700D20A26 /* RxFirebaseStorage.swift in Sources */,
 				9851E8281FDFF7FD0082CDC9 /* RxFirebase.swift in Sources */,
 				EE45F2D71FE2C61E00D20A26 /* RxFirebaseDatabase.swift in Sources */,
 			);
