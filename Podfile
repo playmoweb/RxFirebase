@@ -8,7 +8,6 @@ target 'RxFirebase' do
   # Pods for RxFirebase
   pod 'RxSwift', '~> 4.0'
   pod 'Firebase/Core'
-  pod 'Firebase/Messaging'
   pod 'Firebase/Database'
   pod 'Firebase/Storage'
   pod 'Firebase/Auth'
